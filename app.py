@@ -9,9 +9,6 @@ st.title("Heart stroke prediction ")
 st.markdown("provide the following detials")
 
 # detials about you original dataframe 
-Age	=st.slider("AGE",18,100,40)
-Sex=st.selectbox("SEX", ["M","F"])
-ChestPainType=st.selectbox("chest pain type",["ATA",'NAP','TA','ASY'])
 
 Age = st.slider("Age", 18, 100, 40)
 Sex = st.selectbox("Sex", ["M", "F"])
