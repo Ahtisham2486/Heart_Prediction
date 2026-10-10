@@ -61,7 +61,7 @@ Heart-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Ahtisham2486/Heart_Prediction.git
 ```
 
 Navigate into the project directory:
